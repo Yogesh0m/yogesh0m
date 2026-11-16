@@ -85,8 +85,7 @@ I'm an **MCA graduate** and **Java Full Stack developer** who loves building bac
 ## 📊 GitHub Stats
 
 <div align="center">
- [ <img height="175" src="https://github-readme-stats.vercel.app/api?username=Yogesh0m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />](https://img.shields.io/github/followers/Yogesh0m?style=for-the-badge&logo=github
-https://img.shields.io/github/stars/Yogesh0m?style=for-the-badge&logo=github)
+
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh0m&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 </div>
 
