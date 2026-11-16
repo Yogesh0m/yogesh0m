@@ -1,59 +1,73 @@
-<h1 align="center">Hi, I’m Yogesh Srivastava 👋</h1>
+<!-- Animated header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Yogesh%20Srivastava&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20Learning%20by%20Building&descSize=18&descAlignY=60" alt="Header" />
+</div>
 
-<h3 align="center">Computer Science student | Java developer | Learning by building</h3>
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=640&lines=Computer+Science+Student;Java+%26+OOP+Enthusiast;Building+Backend+Projects;Open+to+Internships+%26+Collaboration" alt="Typing animation" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yogesh0m/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:yogeshshrivastav1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-  </a>
-  <a href="https://x.com/Yogesh0m9760">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
-  </a>
-</p>
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yogesh0m/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yogeshshrivastava1234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Yogesh0m9760"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Yogesh0m&label=Profile%20views&color=2F80ED&style=for-the-badge" alt="Profile views" />
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I’m a Computer Science student building a strong foundation in software development. I primarily work with **Java** and enjoy solving problems, learning core programming concepts, and turning ideas into working projects.
+I'm a Computer Science student building a strong foundation in software development. I work primarily with **Java**, and I enjoy solving problems, mastering core programming concepts, and turning ideas into working projects.
 
-- ☕ Focused on Java and object-oriented programming
-- 🧠 Learning data structures and algorithms
-- 🌱 Exploring backend development
-- 🤝 Open to collaboration and internship opportunities
-- 📫 Reach me at **yogeshshrivastava1234@gmail.com**
+| | |
+|---|---|
+| ☕ **Focus** | Java and Object-Oriented Programming |
+| 🧠 **Learning** | Data Structures & Algorithms |
+| 🌱 **Exploring** | Backend development |
+| 🤝 **Open to** | Internships and collaboration |
+| 📫 **Reach me** | [yogeshshrivastava1234@gmail.com](mailto:yogeshshrivastava1234@gmail.com) |
 
-## Technologies & Tools
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-</p>
+## 🛠️ Tech Stack
 
-## GitHub at a Glance
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,html,css,js,react,postman,eclipse,idea&perline=7" alt="Tech stack" />
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+## 📊 GitHub Stats
 
-## Connect
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogesh0m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh0m&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+</div>
 
-- **LinkedIn:** [linkedin.com/in/yogesh0m](https://www.linkedin.com/in/yogesh0m/)
-- **Email:** [yogeshshrivastava1234@gmail.com](mailto:yogeshshrivastava1234@gmail.com)
-- **X:** [@Yogesh0m9760](https://x.com/Yogesh0m9760)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh0m&theme=tokyonight&hide_border=true&border_radius=12" alt="Contribution streak" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=2F80ED&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh0m&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about Java, backend development, or potential opportunities.
+
+- 💼 LinkedIn: [linkedin.com/in/yogesh0m](https://www.linkedin.com/in/yogesh0m/)
+- 📧 Email: [yogeshshrivastava1234@gmail.com](mailto:yogeshshrivastava1234@gmail.com)
+- 🐦 X: [@Yogesh0m9760](https://x.com/Yogesh0m9760)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer" />
+</div>
